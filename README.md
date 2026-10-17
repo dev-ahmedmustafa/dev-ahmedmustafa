@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ahmed Mustafa
 
-<!--
-**dev-ahmedmustafa/dev-ahmedmustafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning AIOps and DevOps engineering and building projects in public.
 
-Here are some ideas to get you started:
+## Currently learning
+- Python, Linux, Git, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Roadmap
+Python → Linux → Git → AWS → Docker → CI/CD → Kubernetes → Observability → ML for operations
+
+## Background
+Graphic design, data entry, and Python/AI training.
+
+## Connect
