@@ -12,3 +12,4 @@ Python → Linux → Git → AWS → Docker → CI/CD → Kubernetes → Observa
 Graphic design, data entry, and Python/AI training.
 
 ## Connect
+LinkedIn: https://www.linkedin.com/in/ahmed-mustafa-384268444?utm_source=share_via&utm_content=profile&utm_medium=member_android
